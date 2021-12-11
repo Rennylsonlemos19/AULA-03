@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\bin\Debug\aula_numerosesinais.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\bin\Debug\aula_numerosesinais.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\bin\Debug\aula_numerosesinais.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\obj\Debug\aula_numerosesinais.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\obj\Debug\aula_numerosesinais.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\obj\Debug\aula_numerosesinais.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_numerosesinais\obj\Debug\aula_numerosesinais.pdb
